@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/tomek/Desktop/programowanie/nextjs/tutorial-metaverse/app/page":["/Users/tomek/Desktop/programowanie/nextjs/tutorial-metaverse/styles/globals.css"]},"/Users/tomek/Desktop/programowanie/nextjs/tutorial-metaverse/app/layout.js":["/Users/tomek/Desktop/programowanie/nextjs/tutorial-metaverse/styles/globals.css"]}

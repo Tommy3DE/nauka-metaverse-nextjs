@@ -37,11 +37,11 @@ const World = () => (
           </div>
           <div className="absolute top-[60px] left-[745px] w-[166px] h-[130px] p-[6px] rounded-[25%] ">
             <p className="text-white absolute z-10 left-[20.5%] top-[70%] font-bold">Hawkins Labs</p>
-            <img src="planet-02.png" alt="planet" className="w-full h-full object-cover"/>
+            <img src="planet-02.png" alt="planet" className="w-full h-full rounded-[22px] object-cover"/>
           </div>
           <div className="absolute top-[360px] left-[245px] w-[166px] h-[130px] p-[6px] rounded-[25%] ">
             <p className="text-white absolute z-10 left-[20.5%] top-[70%] font-bold">Morrowind</p>
-            <img src="planet-01.png" alt="planet" className="w-full h-full object-cover"/>
+            <img src="planet-01.png" alt="planet" className="w-full h-full rounded-[22px] object-cover"/>
           </div>
         </motion.div>
       </motion.div>

@@ -489,9 +489,6 @@ video {
 .-top-\[30px\] {
   top: -30px;
 }
-.bottom-\[20px\] {
-  bottom: 20px;
-}
 .bottom-20 {
   bottom: 5rem;
 }
@@ -504,17 +501,71 @@ video {
 .left-20 {
   left: 5rem;
 }
-.top-20 {
-  top: 5rem;
-}
 .top-1\/2 {
   top: 50%;
 }
-.right-\[45\%\] {
-  right: 45%;
-}
 .left-\[45\%\] {
   left: 45%;
+}
+.top-\[60px\] {
+  top: 60px;
+}
+.left-\[45px\] {
+  left: 45px;
+}
+.top-\[-30px\] {
+  top: -30px;
+}
+.left-\[145px\] {
+  left: 145px;
+}
+.left-\[1145px\] {
+  left: 1145px;
+}
+.left-\[645px\] {
+  left: 645px;
+}
+.left-\[62\.5\%\] {
+  left: 62.5%;
+}
+.left-\[2\.5\%\] {
+  left: 2.5%;
+}
+.top-\[30\%\] {
+  top: 30%;
+}
+.top-\[70\%\] {
+  top: 70%;
+}
+.left-\[12\.5\%\] {
+  left: 12.5%;
+}
+.left-\[32\.5\%\] {
+  left: 32.5%;
+}
+.left-\[22\.5\%\] {
+  left: 22.5%;
+}
+.left-\[25\.5\%\] {
+  left: 25.5%;
+}
+.left-\[545px\] {
+  left: 545px;
+}
+.left-\[6745px\] {
+  left: 6745px;
+}
+.left-\[745px\] {
+  left: 745px;
+}
+.left-\[20\.5\%\] {
+  left: 20.5%;
+}
+.left-\[245px\] {
+  left: 245px;
+}
+.top-\[360px\] {
+  top: 360px;
 }
 .z-0 {
   z-index: 0;
@@ -621,11 +672,20 @@ video {
 .h-\[100px\] {
   height: 100px;
 }
+.h-\[550px\] {
+  height: 550px;
+}
+.h-\[150px\] {
+  height: 150px;
+}
 .h-\[38px\] {
   height: 38px;
 }
-.h-\[550px\] {
-  height: 550px;
+.h-\[120px\] {
+  height: 120px;
+}
+.h-\[130px\] {
+  height: 130px;
 }
 .min-h-\[70vh\] {
   min-height: 70vh;
@@ -657,8 +717,17 @@ video {
 .w-\[100px\] {
   width: 100px;
 }
+.w-\[196px\] {
+  width: 196px;
+}
 .w-\[100\%\] {
   width: 100%;
+}
+.w-\[146px\] {
+  width: 146px;
+}
+.w-\[166px\] {
+  width: 166px;
 }
 .min-w-\[210px\] {
   min-width: 210px;
@@ -729,6 +798,18 @@ video {
 .rounded-full {
   border-radius: 9999px;
 }
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.rounded-\[25px\] {
+  border-radius: 25px;
+}
+.rounded-\[25\] {
+  border-radius: 25;
+}
+.rounded-\[25\%\] {
+  border-radius: 25%;
+}
 .rounded-b-\[24px\] {
   border-bottom-right-radius: 24px;
   border-bottom-left-radius: 24px;
@@ -765,13 +846,6 @@ video {
 .bg-\[\#323f5d\] {
   --tw-bg-opacity: 1;
   background-color: rgb(50 63 93 / var(--tw-bg-opacity));
-}
-.bg-\[\#5d66a0\] {
-  --tw-bg-opacity: 1;
-  background-color: rgb(93 102 160 / var(--tw-bg-opacity));
-}
-.bg-\[\#5d660\] {
-  background-color: #5d660;
 }
 .bg-\[\#5d6680\] {
   --tw-bg-opacity: 1;
